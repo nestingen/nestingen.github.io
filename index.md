@@ -1,4 +1,4 @@
-# Welcome to Amy Nestingen's Homepage
+# Welcome!
 
 Below are links to some of my past projects. The majority of the projects below were completed for my masters in Data Science at Bellevue University. 
 
