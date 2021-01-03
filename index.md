@@ -13,6 +13,7 @@ I currently work as a Supply Chain Optimization Analyst at Graphic Packaging in 
 - [Visuals in R, Python, and Power BI](https://nestingen.github.io/Visuals-in-R-Python-and-PowerBI/)
 - [Lead Time to Tender Analysis](https://nestingen.github.io/DSC-680-Lead-Time-to-Tender/)
 - [MRO Inventory Analysis](https://nestingen.github.io/DSC-680-MRO-Inventory/)
+- [Combining Data Files: Flat File, API, and Website](https://nestingen.github.io/Combining-Data-Flat-File-API-and-Website/)
 
 ## Contact Info
 [LinkedIn](https://www.linkedin.com/in/amy-nestingen-9501b7117/)
