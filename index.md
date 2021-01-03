@@ -14,4 +14,4 @@ I currently work as a Supply Chain Optimization Analyst at Graphic Packaging in 
 - [MRO Inventory Analysis](https://nestingen.github.io/DSC-680-MRO-Inventory/)
 
 # Contact Info
-LinkedIn: https://www.linkedin.com/in/amy-nestingen-9501b7117/ 
+[LinkedIn](https://www.linkedin.com/in/amy-nestingen-9501b7117/)
