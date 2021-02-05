@@ -4,8 +4,10 @@ This page mainly demonstrates work that have completed while completing my maste
 
 Below are links to my bio and project list. I also included sample visual from past projects and links directly to those projects. 
 
-[About Me and Contact Info](https://nestingen.github.io/nestingen.github.io.about_me/) • [Project List](https://nestingen.github.io/nestingen.github.io.project_list/)
-
+[About Me and Contact Info](https://nestingen.github.io/nestingen.github.io.about_me/) 
+• 
+[Project List](https://nestingen.github.io/nestingen.github.io.project_list/)
+•
 
 
 <p align = "center">
