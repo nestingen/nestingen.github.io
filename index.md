@@ -7,7 +7,9 @@ Below are links to my bio and project list. I also included sample visual from p
 ### [About Me and Contact Info](https://nestingen.github.io/nestingen.github.io.about_me/) </br>
 ### [Project List](https://nestingen.github.io/nestingen.github.io.project_list/)
 
-<p align = "center">
+
 <b>[MRO Inventory Analysis](https://nestingen.github.io/DSC-680-MRO-Inventory/) </b> </br>
 <img src="https://user-images.githubusercontent.com/54515596/106980925-b2bbc380-6726-11eb-90e7-b3229ef540e8.png" width="400">
+
+<p align = "center">
 </p>
