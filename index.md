@@ -5,7 +5,7 @@ Below is a quick bio and links to some of my past projects. Please reach out if 
 ## About Me
 I currently work as a Supply Chain Optimization Analyst at Graphic Packaging in Atlanta. My main focuses are creating a Network Optimization model with Llamasoft and developing BI tools with Qlik Sense. I graduated from Iowa State University in 2017 with a double major in Statistics and Supply Chain. I graduated from Bellevue University in 2021 with a Masters in Data Science. I love learning new skills and working on teams that deliver value. 
 
-!([Amy Nestingen]https://user-images.githubusercontent.com/54515596/106976881-d418b180-671e-11eb-95a1-c09e04d33f76.png)>
+<img [Amy Nestingen]https://user-images.githubusercontent.com/54515596/106976881-d418b180-671e-11eb-95a1-c09e04d33f76.png)>
 
 ## List of Projects
 - [Airline Safety Visualization](https://nestingen.github.io/Airline-Safety-Visualization-Project/)
