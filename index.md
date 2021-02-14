@@ -1,6 +1,6 @@
 # Welcome!
 
-This page mainly demonstrates work that have completed while completing my masters in Data Science from Bellevue University. I currently work at Graphic Packaging as a Supply Chain Optimization Analyst. Some projects completed in my course are related to work I have completed at Graphic Packaging. The data has been changed so no proprietary information is shared.
+This page mainly demonstrates work that have completed during my Data Science Masters program from Bellevue University. I currently work at Graphic Packaging as a Supply Chain Optimization Analyst. Some projects completed in my course are related to work I have completed at Graphic Packaging. The data has been changed so no proprietary information is shared.
 
 Below are links to my bio and project list. I also included sample visual from past projects and links directly to those projects. 
 
