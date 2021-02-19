@@ -9,12 +9,17 @@ Below are links to my bio and project list. I also included sample visual from p
 
 ### Sample Projects
 - [MRO Inventory Analysis](https://nestingen.github.io/MRO-Inventory/) 
+<p align="center"> 
 <img src="https://user-images.githubusercontent.com/54515596/106980925-b2bbc380-6726-11eb-90e7-b3229ef540e8.png" width="700">
+</p>
 
 - [Lead Time to Tender Analysis](https://nestingen.github.io/DSC-680-Lead-Time-to-Tender/)
+<p align="center"> 
 <img src= "https://user-images.githubusercontent.com/54515596/106982795-5d81b100-672a-11eb-9c66-f3ee44170050.png" width ="700">
 <img src = "https://user-images.githubusercontent.com/54515596/106983283-41324400-672b-11eb-8489-8d262165d95c.png" width = "700">
+</p>
 
-
-
-
+- [International Lead Time](https://nestingen.github.io/International-Lead-Time/)
+<p align="center"> 
+<img src= "https://user-images.githubusercontent.com/54515596/108445755-90e03780-7222-11eb-9dc7-74079db83a8b.png" width ="700">
+</p>
